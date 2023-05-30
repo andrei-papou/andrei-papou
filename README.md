@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Machine Learning Engineer mostly focused on Computer Vision (at work) and NLP (on [Kaggle](https://www.kaggle.com/andreippv)) problems. Currently working as DS/ML Engineering Manager at [iTechArt](https://www.itechart.com/solutions/ai). Feel free to reach me via andrei.v.papou@gmail.com.
+I am a Machine Learning Engineer mostly focused on Computer Vision (at work) and NLP (on [Kaggle](https://www.kaggle.com/andreippv)) problems. Currently working as DS/ML Engineering Manager at [Vention](https://ventionteams.com/solutions/ai). Feel free to reach me via andrei.v.papou@gmail.com.
 
 <!--
 **andrei-papou/andrei-papou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
