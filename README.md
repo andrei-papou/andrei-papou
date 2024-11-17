@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Machine Learning Engineer at Google and a [Kaggle Master](https://www.kaggle.com/andreippv)). Feel free to reach out to me at andrei.v.papou@gmail.com.
+I am a Machine Learning Engineer at Google and a [Kaggle Master](https://www.kaggle.com/andreippv). Feel free to reach out to me at andrei.v.papou@gmail.com.
 
 <!--
 **andrei-papou/andrei-papou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
